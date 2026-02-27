@@ -9,9 +9,11 @@ Here on GitHub, I document my learning journey, share small tools and experiment
 Technical Arsenal:
 
 Web Fundamentals: HTML5, CSS
-Design & Prototyping: Figma, Adobe XD, Sketch, InVision
-Graphic & Visual Design: Adobe Illustrator, Photoshop, InDesign, Premiere Pro, Canva
+
+Design & Prototyping: Figma, Adobe XD, Sketch, InVision, Adobe creative suite
+
 UX/UI: Wireframing, User Flow Mapping, Usability Testing, Accessibility (WCAG)
+
 Tools & Collaboration: Jira, Trello, ClickUp, Asana, Miro, GitHub (basic), WordPress (basic)
-Analytics & Research: Google Analytics, A/B Testing, User Research
+
 IT Support & Systems: Windows & macOS environments, networking basics (TCP/IP, DNS, DHCP), troubleshooting, system maintenance, user support
