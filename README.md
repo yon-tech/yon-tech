@@ -1,12 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Damchoe 👋
 
-An experienced, UX designer building accessible, pixel-perfect, and performant digital applications. With a strong background in the MERN ecosystem, I bridge the gap between complex backend logic and seamless user experiences.
+An experienced, UX designer building accessible, user-centred, and reliable digital solutions. With a strong background in IT & Systems, I bridge the gap between complex backend logic and seamless user experiences.
 
-Beyond design, I am actively pursuing a B.Sc. in Computer Science, contributing to Open Source software, maintaing GitHub communities, and writing technical articles on the side, simplifying complex topics for the developer community on my personal blog and freeCodeCamp.
+Beyond design, I am actively building and learning through hands-on projects focused on IT support, systems troubleshooting, and networking fundamentals. I am passionate about simplifying technical problems, improving workflows, and supporting users with clear, practical solutions.
+
+Here on GitHub, I document my learning journey, share small tools and experiments, and continuously improve my technical foundation in IT support and development.
 
 Technical Arsenal:
 
-Core: TypeScript, JavaScript (ES6+), Java, Python
-Frontend: React.js, Next.js, Redux/Zustand, Context API, HTML5/CSS3, SASS, TailwindCSS
-Backend: Node.js, Express, MongoDB, Sanity CMS
-
+Web Fundamentals: HTML5, CSS
+Design & Prototyping: Figma, Adobe XD, Sketch, InVision
+Graphic & Visual Design: Adobe Illustrator, Photoshop, InDesign, Premiere Pro, Canva
+UX/UI: Wireframing, User Flow Mapping, Usability Testing, Accessibility (WCAG)
+Tools & Collaboration: Jira, Trello, ClickUp, Asana, Miro, GitHub (basic), WordPress (basic)
+Analytics & Research: Google Analytics, A/B Testing, User Research
+IT Support & Systems: Windows & macOS environments, networking basics (TCP/IP, DNS, DHCP), troubleshooting, system maintenance, user support
