@@ -1,5 +1,3 @@
-## Hi there, I'm Damchoe 👋
-
 An experienced, UX designer building accessible, user-centred, and reliable digital solutions. With a strong background in IT & Systems, I bridge the gap between complex backend logic and seamless user experiences.
 
 Beyond design, I am actively building and learning through hands-on projects focused on IT support, systems troubleshooting, and networking fundamentals. Here on GitHub, I document my learning journey, share small tools and experiments, and continuously improve my technical foundation in IT support and development.
